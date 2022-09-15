@@ -1,5 +1,6 @@
 ---------------------------------------------------------
 -  @FrodoLFX
--  Currently Focusing on Computer and Systems Engineering
+-  Currently Focusing on Computer and Systems Engineering 
 -  Preferred language : Swift & C++
+-  Preferred OS: Mac OS
 ---------------------------------------------------------
